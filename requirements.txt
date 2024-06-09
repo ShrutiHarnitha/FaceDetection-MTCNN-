@@ -1,0 +1,9 @@
+opencv-python
+os
+numpy 
+pillow 
+tensorflow-hub
+tensorflow
+mtcnn 
+keras-facenet 
+sklearn
